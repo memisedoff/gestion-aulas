@@ -27,7 +27,7 @@
     </main>
 
     <footer class="footer">
-        <p>Facultad · Sistema de Gestión de Aulas · {{ date('Y') }}</p>
+        <p>  Emilia Sedoff · Sistema de Gestión de Aulas · {{ date('Y') }}</p>
     </footer>
 </body>
 </html>
