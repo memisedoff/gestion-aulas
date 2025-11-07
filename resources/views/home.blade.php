@@ -15,7 +15,7 @@
     <a href="{{ route('reservas.index') }}" class="card-link">Reservas</a>
     <a href="{{ route('focos.index') }}" class="card-link">Focos</a>
     <a href="{{ route('cortinas.index') }}" class="card-link">Cortinas</a>
-    <a href="{{ route('aire-acondicionados.index') }}" class="card-link">Aires Acondicionados</a>
+    <a href="{{ route('aires.index') }}" class="card-link">Aires Acondicionados</a>
     <a href="{{ route('historial-aires.index') }}" class="card-link">Historial de Aires</a>
     <a href="{{ route('historial-focos.index') }}" class="card-link">Historial de Focos</a>
     <a href="{{ route('muebles.index') }}" class="card-link">Muebles</a>

@@ -26,7 +26,7 @@ Route::resource('horarios', HorarioController::class);
 Route::resource('reservas', ReservaController::class);
 Route::resource('focos', FocoController::class);
 Route::resource('cortinas', CortinaController::class);
-Route::resource('aire-acondicionados', AireAcondicionadoController::class);
+Route::resource('aires', AireAcondicionadoController::class);
 Route::resource('historial-aires', HistorialAireController::class);
 Route::resource('historial-focos', HistorialFocoController::class);
 Route::resource('muebles', MuebleController::class);
